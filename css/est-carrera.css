@@ -1,0 +1,41 @@
+
+/*clase para la imagen enlaces de interes*/
+.img-enlace-int{
+  width: 100%;
+
+}
+
+
+
+/*clase para imagenes en modal*/
+
+.img-modal{
+height: 100%;
+width: 100%;
+}
+
+.img-circilar , .aula-magna, .img-facultad{
+  height: 200px;
+  width: 200px;
+}
+
+
+/*********************************************************************/
+/*bordes difuminado*/
+.border-difunado{
+-webkit-box-shadow: 0px 6px 12px 0px rgba(0,0,0,0.75);
+-moz-box-shadow: 0px 6px 12px 0px rgba(0,0,0,0.75);
+box-shadow: 0px 6px 12px 0px rgba(0,0,0,0.75);
+Copiar texto
+}
+
+
+
+.item{
+    border-left: 4px solid #007bff;
+    border-left-radius: 16px;
+    -webkit-box-shadow: 2px 6px 11px -6px rgba(0,0,0,0.75);
+-moz-box-shadow: 2px 6px 11px -6px rgba(0,0,0,0.75);
+box-shadow: 2px 6px 11px -6px rgba(0,0,0,0.75);
+
+}
